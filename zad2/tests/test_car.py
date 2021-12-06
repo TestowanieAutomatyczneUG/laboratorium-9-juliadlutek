@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import *
-from src.car import Car
-from src.carimpl import CarImpl
+from zad2.src.car import Car
+from zad2.src.carimpl import CarImpl
 
 
 class TestCar(unittest.TestCase):

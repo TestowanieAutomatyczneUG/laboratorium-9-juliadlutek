@@ -1,4 +1,4 @@
-from src.car import Car
+from zad2.src.car import Car
 
 
 class CarImpl:
